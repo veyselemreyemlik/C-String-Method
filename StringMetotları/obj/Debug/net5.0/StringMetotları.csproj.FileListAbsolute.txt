@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\bin\Debug\net5.0\StringMetotları.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\bin\Debug\net5.0\StringMetotları.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\bin\Debug\net5.0\StringMetotları.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\bin\Debug\net5.0\StringMetotları.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\bin\Debug\net5.0\StringMetotları.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\bin\Debug\net5.0\ref\StringMetotları.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\bin\Debug\net5.0\StringMetotları.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\obj\Debug\net5.0\StringMetotları.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\obj\Debug\net5.0\StringMetotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\obj\Debug\net5.0\StringMetotları.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\obj\Debug\net5.0\StringMetotları.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\obj\Debug\net5.0\StringMetotları.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\obj\Debug\net5.0\StringMetotları.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\obj\Debug\net5.0\ref\StringMetotları.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\obj\Debug\net5.0\StringMetotları.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\StringMetotları\obj\Debug\net5.0\StringMetotları.genruntimeconfig.cache

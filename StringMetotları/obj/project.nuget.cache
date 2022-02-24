@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1IZwHENEnac36Zgd/U5R/1o1H0tWibjZEOFXBGHfJCmVYxG/y0hlsbthyiF62IOwjpWXo1hR4hjnyWmiOQxkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\StringMetotları\\StringMetotları.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
